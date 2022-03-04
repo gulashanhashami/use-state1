@@ -1,0 +1,37 @@
+h1{
+    color:green;
+}
+h2{
+    color: red;
+}
+button{
+    width: 10%;
+    padding: 8px;
+    color: white;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+#btn1{
+   background-color:  blue; 
+   border: 2px solid blue;
+}
+#btn2{
+    background-color:  red; 
+    border: 2px solid red;
+ }
+ #btn3{
+    background-color:  green; 
+    border: 2px solid green;
+ }
+ #btn1:hover{
+     background-color: aliceblue;
+     color: red;
+ }
+ #btn2:hover{
+    background-color: aliceblue;
+    color: red;
+}
+#btn3:hover{
+    background-color: aliceblue;
+    color: red;
+}
